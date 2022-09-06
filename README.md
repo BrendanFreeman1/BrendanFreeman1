@@ -1,7 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif"/>
   <h1 align="center">Hey there, I'm Brendan</h1>
-  <h3 align="center">I'm a software and web development student</h3>
 </div>
 
 <div id="badges" align="center">
@@ -9,14 +8,21 @@
   <a href="https://www.leetcode.com/v0llak"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"          alt="v0llak"  height="30" width="130"/></a>  
 </div>
 
-- I’m currently working on [A budgeting app designed to help users understand their spending habits](https://github.com/BrendanFreeman1/BudgetApp)
+<div id="Bio" align="left">
+  <p> </p>
+  <p>
+    Im a software and web developement student living near Canberra, Australia. 
 
-- I’m in the midst of learning **Web Development with ASP.NET**
+  - I’m currently working on [A budgeting app designed to help users understand their spending habits](https://github.com/BrendanFreeman1/BudgetApp)
 
-- You can reach me via email at: **vollak1@gmail.com**
+  - I’m in the midst of learning **Web Development with ASP.NET**
 
-- [My Résumé](https://docs.google.com/document/d/1TVMWf9z5JrejBx5GHzdtXQbGgI20ChGVNDYTBASnF9Q/edit?usp=sharing)
+  - You can reach me via email at: **vollak1@gmail.com**
 
+  - You can see my résumé [here](https://docs.google.com/document/d/1TVMWf9z5JrejBx5GHzdtXQbGgI20ChGVNDYTBASnF9Q/edit?usp=sharing)
+  </p>
+</div>
+  
 <div id="Languages and Tools" align="center">
   <h3 align="center">Languages and Tools:</h3>
   <p>
