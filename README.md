@@ -1,22 +1,27 @@
-<h1 align="center">Hi I'm Brendan</h1>
-<h3 align="center">A software and web development student</h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/xVRRDVP6lqtNQJrzN7/giphy.gif" />
+</div>
+
+
+
+<h1 align="center">Hey there, I'm Brendan</h1>
+<h3 align="center">I'm a software and web development student</h3>
+<div id="badges" align="center">
+  <a href="https://linkedin.com/in/brendanfreeman1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></a>
+  <a href="https://www.leetcode.com/v0llak" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="v0llak" height="30" width="130" /></a>  
+</div>
 
 - I’m currently working on [A budgeting app designed to help users understand their spending habits](https://github.com/BrendanFreeman1/BudgetApp)
 
-- I’m currently learning **Web Development with ASP.NET**
+- I’m in the midst of learning **Web Development with ASP.NET**
 
-- How to reach me **vollak1@gmail.com**
+- You can reach me via email at: **vollak1@gmail.com**
 
 - [My Résumé](https://docs.google.com/document/d/1TVMWf9z5JrejBx5GHzdtXQbGgI20ChGVNDYTBASnF9Q/edit?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/brendanfreeman1" target="blank"><img align="center" width="100" src="https://github.com/melanieshi0120/melanieshi0120/blob/master/linkedin.ico" alt="brendanfreeman1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/v0llak" target="blank"><img align="center" src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg" alt="v0llak" height="30" width="130" /></a>
+
+
 </p>
-
-
-
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
