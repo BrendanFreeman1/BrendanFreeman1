@@ -17,9 +17,9 @@
 
 - [My Résumé](https://docs.google.com/document/d/1TVMWf9z5JrejBx5GHzdtXQbGgI20ChGVNDYTBASnF9Q/edit?usp=sharing)
 
-<div id="Languages and Tools">
+<div id="Languages and Tools" align="center">
   <h3 align="center">Languages and Tools:</h3>
-    <p align="center"> 
+  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/xamarin.svg" alt="xamarin" width="40"                height="40"/>
     <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
@@ -31,10 +31,12 @@
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" alt="GitHub" width="40"/>
-    </p>
+  </p>
 </div>
-<div id="Stats" align ="center">
+
+
+<div id="Stats" align="center">
   <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=brendanfreeman1&show_icons=true&locale=en&layout=compact"                alt="brendanfreeman1" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brendanfreeman1&show_icons=true&locale=en&layout=compact" alt="brendanfreeman1"/>
   </p>
 </div>
