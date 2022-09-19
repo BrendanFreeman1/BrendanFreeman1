@@ -15,7 +15,7 @@
 
   - I’m currently working on [A budgeting app designed to help users understand their spending habits](https://github.com/BrendanFreeman1/BudgetApp)
 
-  - I’m in the midst of learning **Web Development with ASP.NET**
+  - I’m in the midst of learning **Web Development**
 
   - You can reach me via email at: **vollak1@gmail.com**
 
