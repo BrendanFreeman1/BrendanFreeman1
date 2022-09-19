@@ -5,7 +5,7 @@
 
 <div id="badges" align="center">
   <a href="https://linkedin.com/in/brendanfreeman1"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"      alt="LinkedIn Badge"/></a>
-  <a href="https://www.leetcode.com/v0llak"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"          alt="v0llak"  height="30" width="130"/></a>  
+  <!--<a href="https://www.leetcode.com/v0llak"><img src="https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg"          alt="v0llak"  height="30" width="130"/></a>-->
 </div>
 
 <div id="Bio" align="left">
