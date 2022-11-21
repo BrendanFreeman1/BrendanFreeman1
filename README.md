@@ -11,11 +11,11 @@
 <div id="Bio" align="left">
   <p> </p>
   <p>
-    Im a software and web developement student living near Canberra, Australia. 
+    Im a software developement student living near Canberra, Australia. 
 
   - I’m currently working on [A budgeting app designed to help users understand their spending habits](https://github.com/BrendanFreeman1/BudgetApp)
 
-  - I’m in the midst of learning **Web Development**
+  - I’m in the midst of learning **Web Development** with HTML, CSS, JavaScipt and Ruby
 
   - You can reach me via email at: **vollak1@gmail.com**
 
